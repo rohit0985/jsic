@@ -1,0 +1,16 @@
+{
+    "mocks": [
+        {
+            "id": 1,
+            "title":"mock-1"
+        },
+        {
+            "id": 2,
+            "title":"mock-2"
+        },
+        {
+            "id": 3,
+            "title":"mock-3"
+        }
+    ]
+}
