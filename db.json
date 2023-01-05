@@ -1,30 +1,33 @@
 {
-    "mocks": [
-        {
-            "id": 1,
-            "title":"mock-1"
-        },
-        {
-            "id": 2,
-            "title":"mock-2"
-        },
-        {
-            "id": 3,
-            "title":"mock-3"
-        }
-    ],
-    "tests": [
-        {
-            "id": 1,
-            "title":"test-1"
-        },
-        {
-            "id": 2,
-            "title":"test-2"
-        },
-        {
-            "id": 3,
-            "title":"test-3"
-        }
-    ]
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+"wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
