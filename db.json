@@ -17,6 +17,24 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 30000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 4,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2015,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ],
 "wishlisted_cars": [
@@ -33,6 +51,15 @@
       "brand": "Tata",
 			"type":"AMT",
       "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }, 
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2018,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
