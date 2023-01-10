@@ -66,5 +66,49 @@
     }
   ],
   "users":[],
-  "tasks":[]
+  "tasks":[],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Toffy",
+      "age": 1,
+      "place": "Lucknow",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Chenny",
+      "age": 3,
+      "place": "Delhi",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Bunty",
+      "age": 3,
+      "place": "Kanpur",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Yrp",
+      "age": 1,
+      "place": "Ahmdabad",
+      "gender": "Male"
+    }
+  ]
 }
