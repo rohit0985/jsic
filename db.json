@@ -110,5 +110,15 @@
       "place": "Ahmdabad",
       "gender": "Male"
     }
+  ],
+  "tests":[
+    {
+      "id": 6,
+      "sub": "react"
+    },
+    {
+      "id": 6,
+      "sub": "redux"
+    }
   ]
 }
